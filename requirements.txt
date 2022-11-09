@@ -8,7 +8,6 @@ pandocfilters==1.5.0
 Pillow==8.2.0
 requests==2.26.0
 scikit-image==0.18.3
-scipy==1.7.1
 seaborn==0.11.2
 streamlit==1.0.0
 torch==1.9.1
